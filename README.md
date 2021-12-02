@@ -24,6 +24,9 @@
 
 ## Description
 
+Crud Desenvolvido no Dowhile 2021 com o Mestre Rico Vilela que se disponibilizou para compartilhar um pouquinho do seu Conhecimento
+
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
